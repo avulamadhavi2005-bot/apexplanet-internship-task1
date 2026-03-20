@@ -37,7 +37,7 @@ apexplanet-task1
 2. Place the project folder inside the htdocs directory.
 3. Open the browser and run:
 
-http://localhost/apexplanet-task1
+http://localhost/apexplanet-internship-task1
 
 ## Outcome
 Successfully configured the development environment and pushed the project to GitHub using Git version control.
