@@ -1,0 +1,1 @@
+console.log("ApexPlanet Internship Task 1");
